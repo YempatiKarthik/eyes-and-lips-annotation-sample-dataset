@@ -11,4 +11,4 @@ For easy reference and use case I edited few images for eyes and lips segmentati
 
 Google Drive Link: ![Download](https://drive.google.com/drive/folders/11tE3v12n13yGx_IOJbr10ifETZsMJNUH?usp=sharing)
 
-![alt text](https://drive.google.com/file/d/1KsSG8-Up4CcsCquV4zT4aP2M8Xd9PSld/view?usp=sharing)
+![Alt text](https://drive.google.com/file/d/1KsSG8-Up4CcsCquV4zT4aP2M8Xd9PSld/view?usp=sharing)
