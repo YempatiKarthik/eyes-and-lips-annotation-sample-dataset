@@ -9,6 +9,8 @@ Originally this dataset is taken and inspired from
 
 For easy reference and use case I edited few images for eyes and lips segmentation.
 
-Google Drive Link: !https://drive.google.com/drive/folders/11tE3v12n13yGx_IOJbr10ifETZsMJNUH?usp=sharing
+Google Drive Link: [Download](https://drive.google.com/drive/folders/11tE3v12n13yGx_IOJbr10ifETZsMJNUH?usp=sharing)
 
 ![Alt text](Eyes-and-lips-segmentation.jpg)
+
+Note: I do not own this images this is only for education use only.
