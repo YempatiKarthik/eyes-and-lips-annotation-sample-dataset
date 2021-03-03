@@ -14,3 +14,7 @@ Google Drive Link: [Download](https://drive.google.com/drive/folders/11tE3v12n13
 ![Alt text](Eyes-and-lips-segmentation.jpg)
 
 Note: I do not own this images this is only for education use only.
+
+## Reference:
+
+https://github.com/shatadru99/Image-Segmentation-on-CelebAMask-HQ-dataset
